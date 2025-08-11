@@ -26,6 +26,6 @@ I’m a MERN Stack Developer with experience in building web applications using 
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/salahlala"><img src="https://github-readme-stats.vercel.app/api?username=salahlala&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&show_icons=true" alt="salahlala's GitHub stats" /></a>
+<a href="http://www.github.com/salaheldin404"><img src="https://github-readme-stats.vercel.app/api?username=salaheldin404&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&show_icons=true" alt="salaheldin's GitHub stats" /></a>
 
-<a href="https://github.com/salahlala" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salahlala&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/salaheldin404" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salaheldin404&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
