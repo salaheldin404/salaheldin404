@@ -8,7 +8,6 @@ I’m a MERN Stack Developer with experience in building web applications using 
 
 * 🌍  I'm based in Egypt
 * ✉️  You can contact me at [salahlala303@gmail.com](mailto:salahlala303@gmail.com)
-* 🧠  I'm learning MySQL
 
 ### Skills
 
