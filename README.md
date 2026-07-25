@@ -3,8 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Full Stack Developer
 --------------------
-
-Full-stack Web Developer experienced in building scalable, user-focused web applications using modern frameworks and best practices. Strong background in front-end and back-end development, system architecture, REST APIs, and responsive design, with a passion for clean code, performance, and collaboration.
+specializing in Next.js, Node.js, TypeScript, and PostgreSQL. Experienced in building scalable web applications, designing REST APIs, implementing authentication systems, and developing production-ready products with modern architectures.
 
 * 🌍  I'm based in Egypt
 * ✉️  You can contact me at [salahlala303@gmail.com](mailto:salahlala303@gmail.com)
